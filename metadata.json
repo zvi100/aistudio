@@ -1,0 +1,7 @@
+{
+  "name": "MapChat",
+  "description": "An interactive map-based chatbot that uses real-time Google Maps data to answer location-specific questions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
